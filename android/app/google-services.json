@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439948322456",
+    "project_id": "educo-764c8",
+    "storage_bucket": "educo-764c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439948322456:android:3181d4e332e04ff47412ed",
+        "android_client_info": {
+          "package_name": "com.sangvaleap.educo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439948322456-nb6rofhh4o5ph8qvpnlir3l0hjq2fsfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjoyMGhkXnWUgp_w2TpIqhyWsjh7idlck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439948322456-nb6rofhh4o5ph8qvpnlir3l0hjq2fsfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
